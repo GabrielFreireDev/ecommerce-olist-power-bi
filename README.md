@@ -4,6 +4,8 @@
 Projeto de análise descritiva utilizando dados públicos da Olist (Kaggle),
 com foco em métricas de vendas, clientes, vendedores, avaliações e entregas.
 
+Link público: https://app.powerbi.com/view?r=eyJrIjoiMTM3YTUzODctMWI0My00Y2IwLWIwZTktNDg4MWE5MjRiZmYwIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
+
 ## Ferramentas
 - Power BI
 - Power Query (M)
