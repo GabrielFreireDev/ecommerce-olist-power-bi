@@ -16,5 +16,5 @@ com foco em métricas de vendas, clientes, vendedores, avaliações e entregas.
 - Dashboard interativo
 
 ## Observações
-- Dados públicos disponibilizados na plataforma <a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce" target="_blank" rel="noopener">kaggle</a>
+- Dados públicos disponibilizados na plataforma kaggle (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 - Projeto para fins educacionais e portfólio profissional
