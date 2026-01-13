@@ -4,7 +4,7 @@
 Projeto de análise descritiva utilizando dados públicos da Olist (Kaggle),
 com foco em métricas de vendas, clientes, vendedores, avaliações e entregas.
 
-Link público: https://app.powerbi.com/view?r=eyJrIjoiMTM3YTUzODctMWI0My00Y2IwLWIwZTktNDg4MWE5MjRiZmYwIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
+Link público: <a href="https://app.powerbi.com/view?r=eyJrIjoiMTM3YTUzODctMWI0My00Y2IwLWIwZTktNDg4MWE5MjRiZmYwIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9" target="_blank" rel="noopener noreferrer"> clique aqui</a>
 
 ## Ferramentas
 - Power BI
@@ -18,5 +18,6 @@ Link público: https://app.powerbi.com/view?r=eyJrIjoiMTM3YTUzODctMWI0My00Y2IwLW
 - Dashboard interativo
 
 ## Observações
-- Dados públicos disponibilizados na plataforma kaggle (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- Dados públicos disponibilizados na plataforma  <a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce" target="_blank" rel="noopener noreferrer">kaggle</a>
+
 - Projeto para fins educacionais e portfólio profissional
